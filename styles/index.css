@@ -88,3 +88,13 @@ body {
         transform: translateX(-30px);
     }
 }
+
+#tree-canvas,
+#flower-canvas {
+    /* background-color: purple; */
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    height: 100%;
+}
